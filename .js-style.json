@@ -28,12 +28,16 @@
     "module",
 
     "browser",
-    "protractor"
+    "protractor",
+
+    "element",
+    "by"
   ],
   "quotmark": true,
   "trailing": true,
   "undef": true,
   "unused": true,
-  "node": true
+  "node": true,
+  "strict": false
 }
 

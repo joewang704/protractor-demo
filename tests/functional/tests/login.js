@@ -6,7 +6,7 @@ var LoginPage = require('../pages/LoginPage.js');
 var DesktopPage = require('../pages/DesktopPage.js');
 
 describe('Luceo login page', function () {
-    var loginPage;
+    var  loginPage;
 
     beforeEach(function (done) {
         loginPage = new LoginPage();
